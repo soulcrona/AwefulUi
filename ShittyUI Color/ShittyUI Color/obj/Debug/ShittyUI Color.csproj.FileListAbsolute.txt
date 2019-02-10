@@ -1,0 +1,10 @@
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\bin\Debug\ShittyUI Color.exe.config
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\bin\Debug\ShittyUI Color.exe
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\bin\Debug\ShittyUI Color.pdb
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI Color.csprojResolveAssemblyReference.cache
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI_Color.Form1.resources
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI_Color.Properties.Resources.resources
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI Color.csproj.GenerateResource.Cache
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI Color.csproj.CoreCompileInputs.cache
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI Color.exe
+C:\Users\aspin\Desktop\ShittyUI\ShittyUI Color\ShittyUI Color\obj\Debug\ShittyUI Color.pdb
